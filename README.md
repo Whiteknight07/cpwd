@@ -13,7 +13,7 @@
 ### Homebrew
 
 ```bash
-brew install Whiteknight07/tap/cpwd
+brew install whiteknight07/tap/cpwd
 ```
 
 ### From source
