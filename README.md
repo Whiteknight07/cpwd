@@ -10,6 +10,12 @@
 
 ## Install
 
+### Homebrew
+
+```bash
+brew install Whiteknight07/tap/cpwd
+```
+
 ### From source
 
 ```bash
